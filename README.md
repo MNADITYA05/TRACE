@@ -420,10 +420,6 @@ All configuration is managed via environment variables. Copy the relevant `.env.
 
 ## 🖼 Screenshots
 
-### System Flow
-
-![Flow Map](./ASSETS/FLOW%20MAP.jpeg)
-
 ### Defect Detection Output
 
 ![Test Output](./ASSETS/TEST%20OUTPUT.jpeg)
