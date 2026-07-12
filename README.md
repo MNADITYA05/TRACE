@@ -113,7 +113,7 @@ It solves the above by:
 
 ## 🔄 System Flow
 
-![System Flow Map](./ASSETS/FLOW%20MAP.jpeg)
+
 
 ```mermaid
 flowchart TD
