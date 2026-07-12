@@ -113,8 +113,6 @@ It solves the above by:
 
 ## 🔄 System Flow
 
-
-
 ```mermaid
 flowchart TD
     A([ESP32 + GM805L\nScans Barcode]) --> B[POST /lookup\nNode.js Server :5050]
@@ -376,6 +374,14 @@ Opens at `http://localhost:8501` — filter by shift, quality status, or defect 
 | `npm run seed` | `server/` | Seed MongoDB from the CSV dataset |
 | `uvicorn api:app --reload` | `ml/` | Start ML service with hot reload |
 | `streamlit run dashboard/live.py` | `ml/` | Start the live monitoring dashboard |
+
+### Demo & Documentation
+
+| Resource | Link |
+|---|---|
+| 🎥 Demo Video | [Watch on Google Drive](https://drive.google.com/file/d/1WZgZbUF2lxWeafZvHo3Jk_6ksEE0DptM/view?usp=sharing) |
+| 📁 Demo Folder | [Google Drive](https://drive.google.com/drive/u/1/folders/1wrUGtJpEzwsIgXT9DZ-llEh-kEH1NKC5) |
+| 📄 Full Documentation | [Google Docs](https://docs.google.com/document/d/1CRH13HJ67RGL-q135VsVkChGFNjz_avz9XVLXGDQkMc/edit?usp=sharing) |
 
 ---
 
