@@ -1,4 +1,4 @@
-# 📦 Smart Automated System for Product Labeling and Traceability
+# 📦 TRACE — Smart Automated System for Product Labeling and Traceability
 
 ![Version](https://img.shields.io/github/v/release/MNADITYA05/Smart-Automated-System-for-Product-Labeling-and-Traceability?style=flat-square)
 ![License](https://img.shields.io/github/license/MNADITYA05/Smart-Automated-System-for-Product-Labeling-and-Traceability?style=flat-square)
@@ -43,7 +43,7 @@ Manufacturing facilities that produce printed circuit boards (PCBs) rely heavily
 
 ## 🎯 Our Solution & Purpose
 
-**Smart Automated System for Product Labeling and Traceability** is an end-to-end IoT and AI pipeline that authenticates products via barcode scan and immediately runs AI-powered defect detection on the associated PCB image, writing the quality result back to a live traceability database and displaying it on the scanning station in real time.
+**TRACE** *(Traceability, Real-time Analysis and Classification Engine)* is an end-to-end IoT and AI pipeline that authenticates products via barcode scan and immediately runs AI-powered defect detection on the associated PCB image, writing the quality result back to a live traceability database and displaying it on the scanning station in real time.
 
 It solves the above by:
 
@@ -55,7 +55,7 @@ It solves the above by:
 
 ## ⚡ Why This Over Others
 
-| Feature | This System | Manual Inspection | Commercial Vision Systems (Cognex / Keyence) | Generic YOLOv8 Repos |
+| Feature | TRACE | Manual Inspection | Commercial Vision Systems (Cognex / Keyence) | Generic YOLOv8 Repos |
 |---|:---:|:---:|:---:|:---:|
 | Real-time defect detection | ✅ | ❌ | ✅ | ✅ |
 | Barcode-linked traceability | ✅ | ❌ | ✅ | ❌ |
@@ -529,7 +529,7 @@ See the [LICENSE](./LICENSE) file for full details.
 
 <div align="center">
 
-Built with ❤️ by [MNADITYA05](https://github.com/MNADITYA05) · Intel Unnati Industrial Training Program 2025
+TRACE · Built with ❤️ by [MNADITYA05](https://github.com/MNADITYA05) · Intel Unnati Industrial Training Program 2025
 
 [⭐ Star this repo](https://github.com/MNADITYA05/Smart-Automated-System-for-Product-Labeling-and-Traceability) · [🐛 Report a Bug](https://github.com/MNADITYA05/Smart-Automated-System-for-Product-Labeling-and-Traceability/issues) · [💡 Request a Feature](https://github.com/MNADITYA05/Smart-Automated-System-for-Product-Labeling-and-Traceability/issues)
 
