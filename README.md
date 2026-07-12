@@ -1,9 +1,9 @@
 # 📦 TRACE — Smart Automated System for Product Labeling and Traceability
 
-![Version](https://img.shields.io/github/v/release/MNADITYA05/Smart-Automated-System-for-Product-Labeling-and-Traceability?style=flat-square)
-![License](https://img.shields.io/github/license/MNADITYA05/Smart-Automated-System-for-Product-Labeling-and-Traceability?style=flat-square)
-![Issues](https://img.shields.io/github/issues/MNADITYA05/Smart-Automated-System-for-Product-Labeling-and-Traceability?style=flat-square)
-![Stars](https://img.shields.io/github/stars/MNADITYA05/Smart-Automated-System-for-Product-Labeling-and-Traceability?style=flat-square)
+![Version](https://img.shields.io/github/v/release/MNADITYA05/TRACE?style=flat-square)
+![License](https://img.shields.io/github/license/MNADITYA05/TRACE?style=flat-square)
+![Issues](https://img.shields.io/github/issues/MNADITYA05/TRACE?style=flat-square)
+![Stars](https://img.shields.io/github/stars/MNADITYA05/TRACE?style=flat-square)
 
 > **An ESP32-based IoT system that scans product barcodes and runs real-time AI defect detection on PCBs, logging results to a live traceability dashboard.**
 
@@ -155,7 +155,7 @@ flowchart TD
 ## 📁 File Structure
 
 ```
-Smart-Automated-System-for-Product-Labeling-and-Traceability/
+TRACE/
 │
 ├── ASSETS/                             # Project images and diagrams
 │   ├── FLOW MAP.jpeg                   # End-to-end system flow diagram
@@ -270,8 +270,8 @@ In Arduino IDE, install the following before flashing:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/MNADITYA05/Smart-Automated-System-for-Product-Labeling-and-Traceability.git
-cd Smart-Automated-System-for-Product-Labeling-and-Traceability
+git clone https://github.com/MNADITYA05/TRACE.git
+cd TRACE
 ```
 
 ### 2. Configure the Server
@@ -531,6 +531,6 @@ See the [LICENSE](./LICENSE) file for full details.
 
 TRACE · Built with ❤️ by [MNADITYA05](https://github.com/MNADITYA05) · Intel Unnati Industrial Training Program 2025
 
-[⭐ Star this repo](https://github.com/MNADITYA05/Smart-Automated-System-for-Product-Labeling-and-Traceability) · [🐛 Report a Bug](https://github.com/MNADITYA05/Smart-Automated-System-for-Product-Labeling-and-Traceability/issues) · [💡 Request a Feature](https://github.com/MNADITYA05/Smart-Automated-System-for-Product-Labeling-and-Traceability/issues)
+[⭐ Star this repo](https://github.com/MNADITYA05/TRACE) · [🐛 Report a Bug](https://github.com/MNADITYA05/TRACE/issues) · [💡 Request a Feature](https://github.com/MNADITYA05/TRACE/issues)
 
 </div>

@@ -4,7 +4,7 @@ import numpy as np
 from ultralytics import YOLO
 
 MODEL_PATH = os.getenv("MODEL_PATH", os.path.join(os.path.dirname(__file__), "../models/best.pt"))
-WEIGHTS_URL = "https://github.com/MNADITYA05/Smart-Automated-System-for-Product-Labeling-and-Traceability/releases/download/v1.0.0/best.pt"
+WEIGHTS_URL = "https://github.com/MNADITYA05/TRACE/releases/download/v1.0.0/best.pt"
 
 _model = None
 
